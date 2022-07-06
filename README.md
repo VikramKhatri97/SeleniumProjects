@@ -15,8 +15,7 @@ Selenium in C#
 3.Move to cart and proceed for checkout
 4.Click for place order filling up the details .
 
-# Scenarios > 
-# Tests > DynamicGreenCart
+# Scenarios > Tests > DynamicGreenCart
 1.Home Page
 
 2.TopDeals
